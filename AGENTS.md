@@ -20,3 +20,7 @@ To repozytorium jest częścią rozwoju MOW Fanpage, a nie osobnym produktem. Do
 
 ## Granice
 Nie traktuj tego repo jako samodzielnej aplikacji MOW i nie twórz równoległej logiki publikacji. Funkcje publikacji, moderacji i workflow pozostają w `MOW-Fanpage`.
+
+## Wspólna baza wiedzy MOW
+
+Kanoniczny katalog relacji międzyprojektowych, statusów i nazewnictwa znajduje się w prywatnym repozytorium `JarekDymek/MOW-HUB`. Używaj go przy zadaniach przekrojowych. Dla zmian w tej aplikacji pierwszeństwo mają aktualny kod, lokalny `AGENTS.md` i dokumentacja tego repozytorium.
